@@ -1,6 +1,6 @@
 import os
 
-path = "data_crop"
+path = "Speed_Violents"
 
 for data in os.listdir(path):
     data_choose = os.path.join(path, data)
